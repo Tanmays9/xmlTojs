@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>Medication_API_Tester_Controller</members>
+		<members>Medication_API_Tester_ControllerTest</members>
+		 <members>WS_MedicationService_V1</members>
+		<members>WS_MedicationService_V1Test</members>
+		<members>WS_Medication_V1Helper</members>
+		<members>Tanmay</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>MED_Errorstring_InvalidReq</members>	
+		<members>MED_Errorstring_NotFound</members>
+		<name>CustomLabel</name>
+	</types>
+	<types>
+		<members>medicationAPITester</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<version>51.0</version>
+</Package>
