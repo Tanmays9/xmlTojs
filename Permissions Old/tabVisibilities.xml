@@ -1,0 +1,22 @@
+<Access>
+    <tabVisibilities>
+        <tab>Formulary_Item_Stage_Upload</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Grant_Transaction__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Diagnosis_Code_Stage_Upload</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Diagnosis_Code_Stage__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Grant__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+</Access>

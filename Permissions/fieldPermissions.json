@@ -1,0 +1,2147 @@
+[
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Account.Is_Provider__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Application_Insurance__c.Group_Number__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Application__c.Treating_Provider_Account__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Application__c.Treating_Provider_Contact__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Answer_10__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Answer_6__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Answer_7__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Answer_8__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Answer_9__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund_Criteria_ID_10__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund_Criteria_ID_6__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund_Criteria_ID_7__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund_Criteria_ID_8__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund_Criteria_ID_9__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Medication__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Question_10__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Question_6__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Question_7__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Question_8__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Question_9__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Contact.Caregiver_Email__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Wait_List__c.Submitted_by_type__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Grant__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Medication__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"false"
+		],
+		"field": [
+			"Grant__c.Renew_Button_Handler__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Application__c.Contact__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Application__c.Disease_Fund__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Formulary__c.Formulary_Composite_Key__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Application__c.Wait_List__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant_Transaction__c.Balance__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant_Transaction__c.Grant__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant_Transaction__c.Reversal_Reason__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant_Transaction__c.Status__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant_Transaction__c.Transaction_Amount__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant_Transaction__c.Transaction_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant_Transaction__c.Transaction_Type__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Early_Renewal_Days__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Call_Center_Renewal_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Earliest_Renewal_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Waitlist_Application_Start_Date_Time__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund_Program__c.Disease_Fund__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund_Program__c.Is_Active__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund_Program__c.Program__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program__c.Account__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program__c.AlternatePhone__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program__c.Fax__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program__c.Insurance_Eng__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program__c.Insurance_Sp__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program__c.Is_Active__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program__c.Mail_To__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program__c.Program_Id__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program__c.Toll_Free_Phone__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Wait_List__c.Disease_Fund__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Wait_List__c.Related_Contact__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Wait_List__c.Status__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Application__c.Status__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Case.Application__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Case.Grant__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Agreement__c.Agreement_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Agreement__c.Agreement_Language__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.AlternatePhone__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Brand_Name__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Company__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Drug_Id__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Fax__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Formulation__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Generic_Name__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Insurance_Eng__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Insurance_Sp__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Is_Processed__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Mail_To__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Program_Id__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Toll_Free_Phone__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Program_Medication_Stage__c.Type__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Application__c.Pre_Screen_Application__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Agreement__c.Status__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Formulary__c.HCPCS_Code__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Diagnosis_Code_Stage__c.Code__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Diagnosis_Code_Stage__c.Description__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Diagnosis_Code_Stage__c.Effective_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Diagnosis_Code_Stage__c.Fund_Name__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Diagnosis_Code_Stage__c.Month_Finalized__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Diagnosis_Code_Stage__c.Processing_Error__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Diagnosis_Code_Stage__c.Processing_Status__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Diagnosis_Code_Stage__c.Status__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Medication__c.Overridden_Brand_Name__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Medication__c.Overridden_Generic_Name__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Case.Grant__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Active__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Actual_administrative_fee__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Allow_Disenrollment_Reversal__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Allow_Initial_Grant__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Allow_Renewals__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Allow_Second_Grant__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Allowed_Gender__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Assistance_Amount__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Available_Treatments__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Calendar_Type__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Card_Support_Program__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.CareMetx_Connect__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Category__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Commercial_Allowed_Insurance_Types__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Commercial_Insurance_Required__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Date_Last_Reviewed__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Days_for_Wait_List_Registration__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Description__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Disease_Disease_Fund__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Disease_Fund_Abbreviation__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Effective_Start_Date_Time__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Enrollment_Open_To__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Expected_launch_date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.External_Import_Id__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Federal_Poverty_Level__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Final_Category__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Fund_Balance__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Fund_Stage_State__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"false"
+		],
+		"field": [
+			"Disease_Fund__c.Fund_Status__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Grace_Period__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"false"
+		],
+		"field": [
+			"Disease_Fund__c.Grant_Amount__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Grant_Release_Period__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Grant_use_policy_monitoring__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"false"
+		],
+		"field": [
+			"Disease_Fund__c.Group_ID__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Income_verification_check__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Initial_Fund_Amount__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"npsp__Engagement_Plan_Template__c.Objects__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Launch_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"false"
+		],
+		"field": [
+			"Disease_Fund__c.Look_back_Period_Start_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Look_back_period__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Medical_Director_Recommendation__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Medical_Director_Review__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Medical_Provider_API_Connection__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Medicare_vs_Non_Medicare__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Minimum_claim_requirement__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Multiple_New_Agents_in_Pipeline__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Notes_Rationale__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Notification_Sent_to_DFWL__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Open__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.PAN_Review_Comments__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.PAN_Review__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.PAN_website__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Patient__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Pharmacy_Provider_API_Connection__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Pharmacy__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Pilot_Program_Type__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Pilot_Program__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Population_Size_Comments__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Population_Size__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"false"
+		],
+		"field": [
+			"Disease_Fund__c.Process_Wait_List_Application_Time__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Processing_Wait_List_Applications__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Provider__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Public_Allowed_Insurance_Types__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Public_Insurance_Required__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Retro_Active_Period__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Significant_Generic_Availability__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Sweep_money__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Therapeutic_Area__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Type__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Widely_Recognized_Disease_State__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"false"
+		],
+		"field": [
+			"Disease_Fund__c.Process_Wait_List_Application_Time__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Disease_Fund__c.Processing_Wait_List_Applications__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Application__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Claim_Submission_End_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Contact__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Current_Amount__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Disease_Fund__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Eligibility_End_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Eligibility_Start_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"false"
+		],
+		"field": [
+			"Grant__c.Enrollment_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Enrollment_End_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Grant_Release_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Grant_Type__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Member__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Pharmacy__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Pre_Screen_Application__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Renewal_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Second_Grant_Date__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Status__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Grant__c.Treating_Provider__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Knowledge__kav.Description__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Answer_1__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Answer_2__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Answer_3__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Answer_4__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Answer_5__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund_Criteria_ID_1__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund_Criteria_ID_2__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund_Criteria_ID_3__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund_Criteria_ID_4__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund_Criteria_ID_5__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Disease_Fund__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Question_1__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Question_2__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Question_3__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Question_4__c"
+		],
+		"readable": [
+			"true"
+		]
+	},
+	{
+		"editable": [
+			"true"
+		],
+		"field": [
+			"Pre_Screen_Application__c.Question_5__c"
+		],
+		"readable": [
+			"true"
+		]
+	}
+]

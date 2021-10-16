@@ -9,9 +9,9 @@ const parser = new xml2js.Parser();
 fs.readFile('example.xml', (err, data) => {
     parser.parseString(data, (err, result) => {
         val = result;
-        convertToObject(val);
+        var obj = convertToObject(val);
         // val = util.inspect(result, false, null, true);
-        jsWrite(val)
+        jsWrite(obj)
     })
 })
 
@@ -32,4 +32,5 @@ function convertToObject(val){
         obj[element.name] = element.members;
     });
     console.log(obj);
+    return obj;
 }

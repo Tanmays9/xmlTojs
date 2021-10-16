@@ -1,0 +1,42 @@
+[
+	{
+		"tab": [
+			"Formulary_Item_Stage_Upload"
+		],
+		"visibility": [
+			"DefaultOn"
+		]
+	},
+	{
+		"tab": [
+			"Grant_Transaction__c"
+		],
+		"visibility": [
+			"DefaultOn"
+		]
+	},
+	{
+		"tab": [
+			"Diagnosis_Code_Stage_Upload"
+		],
+		"visibility": [
+			"DefaultOn"
+		]
+	},
+	{
+		"tab": [
+			"Diagnosis_Code_Stage__c"
+		],
+		"visibility": [
+			"DefaultOn"
+		]
+	},
+	{
+		"tab": [
+			"Grant__c"
+		],
+		"visibility": [
+			"DefaultOn"
+		]
+	}
+]

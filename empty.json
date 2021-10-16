@@ -1,42 +1,17 @@
 {
-	"Package": {
-		"$": {
-			"xmlns": "http://soap.sforce.com/2006/04/metadata"
-		},
-		"types": [
-			{
-				"members": [
-					"Medication_API_Tester_Controller",
-					"Medication_API_Tester_ControllerTest",
-					"WS_MedicationService_V1",
-					"WS_MedicationService_V1Test",
-					"WS_Medication_V1Helper",
-					"Tanmay"
-				],
-				"name": [
-					"ApexClass"
-				]
-			},
-			{
-				"members": [
-					"MED_Errorstring_InvalidReq",
-					"MED_Errorstring_NotFound"
-				],
-				"name": [
-					"CustomLabel"
-				]
-			},
-			{
-				"members": [
-					"medicationAPITester"
-				],
-				"name": [
-					"LightningComponentBundle"
-				]
-			}
-		],
-		"version": [
-			"51.0"
-		]
-	}
+	"ApexClass": [
+		"Medication_API_Tester_Controller",
+		"Medication_API_Tester_ControllerTest",
+		"WS_MedicationService_V1",
+		"WS_MedicationService_V1Test",
+		"WS_Medication_V1Helper",
+		"Tanmay"
+	],
+	"CustomLabel": [
+		"MED_Errorstring_InvalidReq",
+		"MED_Errorstring_NotFound"
+	],
+	"LightningComponentBundle": [
+		"medicationAPITester"
+	]
 }

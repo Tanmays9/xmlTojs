@@ -1,0 +1,46 @@
+[
+	{
+		"default": [
+			"false"
+		],
+		"recordType": [
+			"Knowledge__kav.Alert"
+		],
+		"visible": [
+			"true"
+		]
+	},
+	{
+		"default": [
+			"true"
+		],
+		"recordType": [
+			"Knowledge__kav.FAQ"
+		],
+		"visible": [
+			"true"
+		]
+	},
+	{
+		"default": [
+			"false"
+		],
+		"recordType": [
+			"Disease_Fund__c.Fund"
+		],
+		"visible": [
+			"true"
+		]
+	},
+	{
+		"default": [
+			"true"
+		],
+		"recordType": [
+			"Disease_Fund__c.Prospective_Fund"
+		],
+		"visible": [
+			"true"
+		]
+	}
+]

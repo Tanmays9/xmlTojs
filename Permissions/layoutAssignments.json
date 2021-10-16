@@ -1,0 +1,81 @@
+[
+	{
+		"layout": [
+			"Pre_Screen_Application__c-Pro Screen Application Layout"
+		]
+	},
+	{
+		"layout": [
+			"Case-Case Layout"
+		]
+	},
+	{
+		"layout": [
+			"Grant_Transaction__c-Grant Transaction Layout"
+		]
+	},
+	{
+		"layout": [
+			"Program__c-Program Layout"
+		]
+	},
+	{
+		"layout": [
+			"Diagnosis_Code_Stage__c-Diagnosis Code Stage Layout"
+		]
+	},
+	{
+		"layout": [
+			"Knowledge__kav-Knowledge Layout"
+		]
+	},
+	{
+		"layout": [
+			"Knowledge__kav-Knowledge Layout"
+		],
+		"recordType": [
+			"Knowledge__kav.Alert"
+		]
+	},
+	{
+		"layout": [
+			"Knowledge__kav-Knowledge Layout"
+		],
+		"recordType": [
+			"Knowledge__kav.FAQ"
+		]
+	},
+	{
+		"layout": [
+			"Disease_Fund__c-Fund"
+		]
+	},
+	{
+		"layout": [
+			"Disease_Fund__c-Fund"
+		],
+		"recordType": [
+			"Disease_Fund__c.Fund"
+		]
+	},
+	{
+		"layout": [
+			"Grant__c-Grant Layout"
+		]
+	},
+	{
+		"layout": [
+			"Event-Event Layout"
+		]
+	},
+	{
+		"layout": [
+			"Program_Medication_Stage__c-Program Medication Stage Layout"
+		]
+	},
+	{
+		"layout": [
+			"Application__c-Application Layout"
+		]
+	}
+]

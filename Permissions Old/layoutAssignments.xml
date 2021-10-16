@@ -1,0 +1,47 @@
+<Access>
+    <layoutAssignments>
+        <layout>Pre_Screen_Application__c-Pro Screen Application Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-Case Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Grant_Transaction__c-Grant Transaction Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-Program Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Diagnosis_Code_Stage__c-Diagnosis Code Stage Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Knowledge__kav-Knowledge Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Knowledge__kav-Knowledge Layout</layout>
+        <recordType>Knowledge__kav.Alert</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Knowledge__kav-Knowledge Layout</layout>
+        <recordType>Knowledge__kav.FAQ</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Disease_Fund__c-Fund</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Disease_Fund__c-Fund</layout>
+        <recordType>Disease_Fund__c.Fund</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Grant__c-Grant Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Event-Event Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program_Medication_Stage__c-Program Medication Stage Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Application__c-Application Layout</layout>
+    </layoutAssignments>
+</Access>

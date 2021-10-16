@@ -1,0 +1,217 @@
+[
+	{
+		"allowCreate": [
+			"true"
+		],
+		"allowDelete": [
+			"true"
+		],
+		"allowEdit": [
+			"true"
+		],
+		"allowRead": [
+			"true"
+		],
+		"modifyAllRecords": [
+			"true"
+		],
+		"object": [
+			"Grant_Transaction__c"
+		],
+		"viewAllRecords": [
+			"true"
+		]
+	},
+	{
+		"allowCreate": [
+			"true"
+		],
+		"allowDelete": [
+			"true"
+		],
+		"allowEdit": [
+			"true"
+		],
+		"allowRead": [
+			"true"
+		],
+		"modifyAllRecords": [
+			"true"
+		],
+		"object": [
+			"Disease_Fund_Program__c"
+		],
+		"viewAllRecords": [
+			"true"
+		]
+	},
+	{
+		"allowCreate": [
+			"true"
+		],
+		"allowDelete": [
+			"true"
+		],
+		"allowEdit": [
+			"true"
+		],
+		"allowRead": [
+			"true"
+		],
+		"modifyAllRecords": [
+			"true"
+		],
+		"object": [
+			"Program__c"
+		],
+		"viewAllRecords": [
+			"true"
+		]
+	},
+	{
+		"allowCreate": [
+			"true"
+		],
+		"allowDelete": [
+			"true"
+		],
+		"allowEdit": [
+			"true"
+		],
+		"allowRead": [
+			"true"
+		],
+		"modifyAllRecords": [
+			"true"
+		],
+		"object": [
+			"Wait_List__c"
+		],
+		"viewAllRecords": [
+			"true"
+		]
+	},
+	{
+		"allowCreate": [
+			"true"
+		],
+		"allowDelete": [
+			"true"
+		],
+		"allowEdit": [
+			"true"
+		],
+		"allowRead": [
+			"true"
+		],
+		"modifyAllRecords": [
+			"true"
+		],
+		"object": [
+			"Diagnosis_Code_Stage__c"
+		],
+		"viewAllRecords": [
+			"true"
+		]
+	},
+	{
+		"allowCreate": [
+			"true"
+		],
+		"allowDelete": [
+			"true"
+		],
+		"allowEdit": [
+			"true"
+		],
+		"allowRead": [
+			"true"
+		],
+		"modifyAllRecords": [
+			"true"
+		],
+		"object": [
+			"Disease_Fund__c"
+		],
+		"viewAllRecords": [
+			"true"
+		]
+	},
+	{
+		"object": [
+			"Grant__c"
+		],
+		"viewAllRecords": [
+			"true"
+		]
+	},
+	{
+		"allowCreate": [
+			"true"
+		],
+		"allowDelete": [
+			"true"
+		],
+		"allowEdit": [
+			"true"
+		],
+		"allowRead": [
+			"true"
+		],
+		"modifyAllRecords": [
+			"true"
+		],
+		"object": [
+			"Knowledge__kav"
+		],
+		"viewAllRecords": [
+			"true"
+		]
+	},
+	{
+		"allowCreate": [
+			"true"
+		],
+		"allowDelete": [
+			"true"
+		],
+		"allowEdit": [
+			"true"
+		],
+		"allowRead": [
+			"true"
+		],
+		"modifyAllRecords": [
+			"true"
+		],
+		"object": [
+			"Pre_Screen_Application__c"
+		],
+		"viewAllRecords": [
+			"true"
+		]
+	},
+	{
+		"allowCreate": [
+			"true"
+		],
+		"allowDelete": [
+			"true"
+		],
+		"allowEdit": [
+			"true"
+		],
+		"allowRead": [
+			"true"
+		],
+		"modifyAllRecords": [
+			"true"
+		],
+		"object": [
+			"Program_Medication_Stage__c"
+		],
+		"viewAllRecords": [
+			"true"
+		]
+	}
+]
