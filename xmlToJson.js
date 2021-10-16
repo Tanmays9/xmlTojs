@@ -10,6 +10,8 @@ fs.readFile('example.xml', (err, data) => {
     parser.parseString(data, (err, result) => {
         val = result;
         var obj = convertToObject(val);
+
+        
         // val = util.inspect(result, false, null, true);
         jsWrite(obj)
     })
